@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\VS code copy to Word clutter removal tool\VS code copy to Word clutter removal tool\bin\Debug\VS code copy to Word clutter removal tool.exe
+C:\Users\Administrator\Desktop\VS code copy to Word clutter removal tool\VS code copy to Word clutter removal tool\bin\Debug\VS code copy to Word clutter removal tool.pdb
+C:\Users\Administrator\Desktop\VS code copy to Word clutter removal tool\VS code copy to Word clutter removal tool\obj\x86\Debug\VS_code_copy_to_Word_clutter_removal_tool.Form1.resources
+C:\Users\Administrator\Desktop\VS code copy to Word clutter removal tool\VS code copy to Word clutter removal tool\obj\x86\Debug\VS_code_copy_to_Word_clutter_removal_tool.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VS code copy to Word clutter removal tool\VS code copy to Word clutter removal tool\obj\x86\Debug\VS code copy to Word clutter removal tool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VS code copy to Word clutter removal tool\VS code copy to Word clutter removal tool\obj\x86\Debug\VS code copy to Word clutter removal tool.exe
+C:\Users\Administrator\Desktop\VS code copy to Word clutter removal tool\VS code copy to Word clutter removal tool\obj\x86\Debug\VS code copy to Word clutter removal tool.pdb
